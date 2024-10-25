@@ -47,7 +47,7 @@ const Home = () => {
         </div>
         <div className='ContactDetails'>
           <CiPhone size={24} />
-          <p>Phone: +91 7012836911</p>
+          <a href="tel:+917012836911">Phone: +91 7012836911</a>
         </div>
       </div>
 
